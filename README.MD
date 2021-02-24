@@ -15,7 +15,7 @@
 
 <br>
 
-<a href>https://linkedin.com/in/ leonardo-ferreira-253a60173/  </a>
+<a href>https://linkedin.com/in/leonardo-ferreira-253a60173/  </a>
 <br>
 <a href>https://www.reddit.com/user/akaZinnlua </a>
 <br>
