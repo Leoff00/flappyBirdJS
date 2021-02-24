@@ -1,0 +1,23 @@
+{
+  "name": "flappyBird",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> PROJETO FLAPPY BIRD </h1>",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoff00/flappyBirdJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leoff00/flappyBirdJS/issues"
+  },
+  "homepage": "https://github.com/Leoff00/flappyBirdJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
